@@ -27,11 +27,11 @@ field.widget.settings.default_license_plate_widget:
       label: 'The placeholders for the two fields'
       mapping:
         number:
-        type: string
-        label: 'The placeholder for the number field'
-      code:
-        type: string
-        label: 'The placeholder for the code field'
+          type: string
+          label: 'The placeholder for the number field'
+        code:
+          type: string
+          label: 'The placeholder for the code field'
 
 field.formatter.settings.default_license_plate_formatter:
   type: mapping
