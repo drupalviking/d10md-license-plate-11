@@ -1,0 +1,5 @@
+name: License Plate Field
+description: Provides a field, field widget and field formatter to display US license plates
+type: module
+core_version_requirement: ^11
+package: UAG
